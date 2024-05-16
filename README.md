@@ -13,6 +13,13 @@ I maintain a couple of personal open source projects that you might find interes
 - [kubectl-ephemeral](https://github.com/embik/kubectl-ephemeral): A simple `kubectl` plugin to launch [ephemeral containers](https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers/).
 - [hugo-theme-lyla](https://github.com/embik/hugo-theme-lyla): A compact Hugo theme based on [mvp.css](https://github.com/andybrewer/mvp), used for my personal website.
 
+### Repositories
+
+Some of those projects (and tools I use) are available from package repositories:
+
+- [homebrew-tap](https://github.com/embik/homebrew-tap)
+- [krew-index](https://github.com/embik/krew-index)
+
 ### Contributions
 
 I contribute to some popular open source projects:
