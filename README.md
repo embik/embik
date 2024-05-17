@@ -1,4 +1,4 @@
-## Hi there, I'm Marvin :wave:
+### Hi there, I'm Marvin :wave:
 
 I'm a software engineer working in the (cloud) infrastructure space. I currently work at [Kubermatic](https://github.com/kubermatic).
 
