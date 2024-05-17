@@ -1,4 +1,4 @@
-### Hi there, I'm Marvin :wave:
+## Hi there, I'm Marvin :wave:
 
 I'm a software engineer working in the (cloud) infrastructure space. I currently work at [Kubermatic](https://github.com/kubermatic).
 
@@ -15,14 +15,11 @@ I maintain a couple of personal open source projects that you might find interes
 
 ### Repositories
 
-Some of those projects (and tools I use) are available from package repositories:
+Some of those projects (and tools I use) are available from package repositories I operate:
 
-- [homebrew-tap](https://github.com/embik/homebrew-tap)
-- [krew-index](https://github.com/embik/krew-index)
+- A [Homebrew tap](https://github.com/embik/homebrew-tap) for macOS users.
+- A [krew index](https://github.com/embik/krew-index) for kubectl plugins.
 
-### Contributions
+### Misc
 
-I contribute to some popular open source projects:
-
-- [kubermatic/kubermatic](https://github.com/kubermatic/kubermatic)
-- [kcp-dev/kcp](https://github.com/kcp-dev/kcp)
+[dotfiles](https://github.com/embik/dotfiles) | [talks](https://github.com/embik/talks)
