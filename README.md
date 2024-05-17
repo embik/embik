@@ -19,7 +19,3 @@ Some of those projects (and tools I use) are available from package repositories
 
 - A [Homebrew tap](https://github.com/embik/homebrew-tap) for macOS users.
 - A [krew index](https://github.com/embik/krew-index) for kubectl plugins.
-
-## Miscellaneous
-
-[dotfiles](https://github.com/embik/dotfiles) | [talks](https://github.com/embik/talks)
