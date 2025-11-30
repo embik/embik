@@ -1,6 +1,6 @@
 ### Hi there, I'm Marvin :wave:
 
-I'm a software engineer working in the (cloud) infrastructure space. I currently work at [Kubermatic](https://github.com/kubermatic).
+I'm a software engineer working in the (cloud) infrastructure space.
 
 - You can find my personal website and blog at <a rel="me" href="https://marvin.beckers.dev">marvin.beckers.dev</a>.
 
